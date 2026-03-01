@@ -83,7 +83,7 @@ O usuário pode:
 
 ## 📚 Finalidade Acadêmica
 
-Projeto desenvolvido com fins educacionais como parte de atividades de desenvolvimento em Realidade Estendida.
+Projeto desenvolvido com fins educacionais como parte de atividades de desenvolvimento em Realidade Virtual.
 
 ---
 
