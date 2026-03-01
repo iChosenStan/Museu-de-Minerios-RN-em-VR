@@ -8,7 +8,18 @@ A experiência foi desenvolvida com o objetivo educacional, permitindo a explora
 
 O ambiente simula um espaço expositivo onde o usuário pode observar diferentes formações minerais em um contexto museológico.
 
+> 📌 Veja a experiência em funcionamento no vídeo abaixo
+
 ---
+
+## 🎥 Demonstração
+
+<p align="center">
+  <a href="https://youtu.be/ErfapOCLb0E">
+    <img src="https://img.youtube.com/vi/ErfapOCLb0E/maxresdefault.jpg" alt="Demonstração do Projeto VR">
+  </a>
+</p>
+
 
 ## 🎯 Objetivos
 
