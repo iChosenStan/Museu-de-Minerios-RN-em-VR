@@ -77,7 +77,7 @@ O usuário pode:
 * Caminhar pelo ambiente
 * Visualizar minerais
 * Explorar o espaço expositivo
-* Vivenciar uma simulação museológica em XR
+* Vivenciar uma simulação museológica em VR
 
 ---
 
